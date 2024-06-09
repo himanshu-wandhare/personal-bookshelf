@@ -2,6 +2,8 @@
 
 # Steps to setup the project:
 
+    Live website link: https://exquisite-gnome-0e71a3.netlify.app/
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -23,7 +25,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/himanshu-wandhare/personal-bookshelf.git
 
    ```
 
