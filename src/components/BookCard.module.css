@@ -1,0 +1,41 @@
+.book {
+  --bg-color: #ceb2fc;
+  --bg-color-light: #f0e7ff;
+  --text-color-hover: #fff;
+  --box-shadow-color: rgba(206, 178, 252, 0.48);
+}
+
+.card {
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 14px 26px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 20px;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+}
+
+.card:hover {
+  box-shadow: 0 24px 36px rgba(0, 0, 0, 0.11),
+    0 24px 46px var(--box-shadow-color);
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+}
+
+.card h3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  color: #4c5656;
+  overflow: hidden;
+}
+
+.card .title {
+  color: black;
+}
+
+.card p {
+  font-size: 17px;
+}
