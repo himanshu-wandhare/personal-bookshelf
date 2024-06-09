@@ -2,7 +2,7 @@
 
 # Steps to setup the project:
 
-    Live website link: https://exquisite-gnome-0e71a3.netlify.app/
+[Live Website](https://exquisite-gnome-0e71a3.netlify.app/)
 
 ## Table of Contents
 
