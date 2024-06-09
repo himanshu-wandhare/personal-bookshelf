@@ -1,8 +1,8 @@
 # Personal Bookshelf
 
-# Steps to setup the project:
-
 [Live Website](https://exquisite-gnome-0e71a3.netlify.app/)
+
+# Steps to setup the project:
 
 ## Table of Contents
 
