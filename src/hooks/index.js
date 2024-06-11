@@ -37,7 +37,7 @@ export const useSearchBooks = (query) => {
       }
     }
 
-    fetchBooks();
+    query.length > 1 && fetchBooks();
   }, [query]);
 
   return { books, isLoading, error };
